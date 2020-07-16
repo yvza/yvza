@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there [![HitCount](http://hits.dwyl.com/yvza/yvza.svg)](http://hits.dwyl.com/yvza/yvza)
 
 <!--
 **yvza/yvza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
