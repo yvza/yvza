@@ -15,5 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![p github stats](https://github-readme-stats.vercel.app/api?username=yvza&count_private=true&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yvza&layout=compact)](https://github.com/yvza)
+<a href="https://cybsecdiary.com">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yvza&count_private=true&show_icons=true" />
+</a>
+<a href="https://cybsecdiary.com">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvza&layout=compact" />
+</a>
