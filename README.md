@@ -44,7 +44,4 @@
     [![Babel](http://img.shields.io/badge/-Babel-eee?style=flat-square&logo=babel)](https://github.com/yvza)
     [![webpack](http://img.shields.io/badge/-webpack-eee?style=flat-square&logo=webpack)](https://github.com/yvza)
 
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yvza" alt="yvza" /></a></p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yvza&" alt="yvza" /></p>
-
 __*You can explore the projects I am working on publicly and would be elated on a contribution on them.*__
