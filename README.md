@@ -30,7 +30,7 @@
     [![Gridsome](http://img.shields.io/badge/-Gridsome-eee?style=flat-square&logo=gridsome)](https://github.com/yvza)
 - Backend : <br />
     [![MySQL](http://img.shields.io/badge/-MySQL-eee?style=flat-square&logo=mysql&logoColor=4479A1)](https://github.com/yvza)
-    [![Oracle](http://img.shields.io/badge/-Oracle-eee?style=flat-square&logo=Oracle&logoColor=4479A1)](https://github.com/yvza)
+    [![Oracle](http://img.shields.io/badge/-Oracle-eee?style=flat-square&logo=Oracle&logoColor=red)](https://github.com/yvza)
     [![NodeJS](http://img.shields.io/badge/-NodeJS-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAgVBMVEUzmTMzkTM0mDQslSwtlS00mzQAAAA7nTsymDIzmDMwmDAymTIzmDMzmTMzmDMzmDMzlzM0mTQzmTMzmTMzmTMzmTMzmTM0mjQ1nDUxlzEymDIzmTMzmTMzmTMzmTMzmTMwlzAzmTMzmTMzmTMzmTMzmTMzmTM0mTQzmTMzmTP///8ybrFJAAAAKXRSTlMAAAAAAAAAAAAAAA9RxlIRBjSR6/7vmzkIAyd21Nt8JwMauPwrKvlQxcV6L9IAAABUSURBVAjXY2RgZGTkYGQEUl8ZwUx2EAUSZfz0jVESSPEygMAXkIgiIyMbAwT8+v+fUeU/jAfkMzKqMjLDuX//k8ZFMwrNIjRnoDkS7AUZxqcQLwAA4+0cex8ENfMAAAAASUVORK5CYII=)](https://github.com/yvza)
     [![MongoDB](https://img.shields.io/badge/-MongoDB-eee?style=flat-square&logo=mongodb&logoColor=47A248)](https://github.com/yvza)
     [![Laravel](http://img.shields.io/badge/-Laravel-eee?style=flat-square&logo=laravel)](https://github.com/yvza)
@@ -41,6 +41,8 @@
     [![JSON](http://img.shields.io/badge/-JSON-eee?style=flat-square&logo=json&logoColor=gray)](https://github.com/yvza)
     [![NPM](http://img.shields.io/badge/-NPM-eee?style=flat-square&logo=npm)](https://github.com/yvza)
     [![YARN](http://img.shields.io/badge/-YARN-eee?style=flat-square&logo=yarn)](https://github.com/yvza)
+    [![Babel](http://img.shields.io/badge/-Babel-eee?style=flat-square&logo=babel)](https://github.com/yvza)
+    [![webpack](http://img.shields.io/badge/-webpack-eee?style=flat-square&logo=webpack)](https://github.com/yvza)
 
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yvza" alt="yvza" /></a></p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yvza&" alt="yvza" /></p>
