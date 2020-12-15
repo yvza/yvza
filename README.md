@@ -5,15 +5,13 @@
 ✨ I am a passionate Front-End Web Developer based in East Java, Indonesia
 
 - 🔭 I’m currently working on **Full-Stack Development** projects.
-- 🌱 I’m currently learning Laravel, & Advanced PL/SQL (and enjoying _Web Dev_). 
+- 🌱 I’m currently learning Laravel, React & Advanced PL/SQL (and enjoying _Web Dev_). 
 - 😍 My hobbies are Traveling (_#stayathome_), Urbex Photography, and Gaming.
 - ⚡ Fun fact: before becoming a web developer. I started my journey from playing games, so almost all popular games I already played. but now i only playing _Mobile Legends: Bang Bang_ 💖.
 - 💌 I'm available on facebook and ig as @yuza.go.id, and you can create another [question](https://github.com/yvza/yvza/issues/new) as well.
 
 🐱‍💻 Most technologies I've been using everyday :
 - Design : <br />
-    [![Photoshop](http://img.shields.io/badge/-Photoshop-eee?style=flat-square&logo=adobe-photoshop)](https://github.com/yvza)
-    [![Illustrator](http://img.shields.io/badge/-Illustrator-eee?style=flat-square&logo=adobe-illustrator)](https://github.com/yvza)
     [![XD](http://img.shields.io/badge/-XD-eee?style=flat-square&logo=adobe-xd)](https://github.com/yvza)
 - Programming languages : <br />
     [![PHP](http://img.shields.io/badge/-PHP-eee?style=flat-square&logo=php&logoColor=4951aa)](https://github.com/yvza)
