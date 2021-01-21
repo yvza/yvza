@@ -1,6 +1,6 @@
 # Hi 👐 , I'm Yuza <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 
-[![HitCount](http://hits.dwyl.com/yvza/yvza.svg)](http://hits.dwyl.com/yvza/yvza)
+![](https://komarev.com/ghpvc/?username=yvza&style=flat-square)
 
 ✨ I am a passionate Front-End Web Developer based in East Java, Indonesia
 
