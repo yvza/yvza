@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on **Full-Stack Development** projects.
 - 🌱 I’m currently learning Laravel, React & Advanced PL/SQL (and enjoying _Web Dev_). 
 - 😍 My hobbies are Traveling (_#stayathome_), Urbex Photography, and Gaming.
-- ⚡ Fun fact: before becoming a web developer. I started my journey from playing games, so almost all popular games I already played. but now i only playing _Mobile Legends: Bang Bang_ 💖.
+- ⚡ Fun fact: before becoming a web developer. I started my journey from playing games, so almost all popular games I already played. but now i only playing ~~_Mobile Legends: Bang Bang_ 💖~~ (i retired after reach Mythical Glory when season 18).
 - 💌 I'm available on facebook and ig as @yuza.go.id, and you can create another [question](https://github.com/yvza/yvza/issues/new) as well.
 
 🐱‍💻 Most technologies I've been using everyday :
