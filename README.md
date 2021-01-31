@@ -23,7 +23,7 @@
     [![CSS3](http://img.shields.io/badge/-CSS3-eee?style=flat-square&logo=CSS3&logoColor=blue)](https://github.com/yvza)
     [![Sass](https://img.shields.io/badge/-SASS-eee?style=flat-square&logo=SASS)](https://github.com/yvza)
     [![Vuejs](https://img.shields.io/badge/-Vue.js-eee?style=flat-square&logo=Vue.js)](https://github.com/yvza)
-    [![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-eee?style=flat-square&logo=Tailwind-css)](https://github.com/yvza)
+    [![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-eee?style=flat-square&logo=Tailwind-css)](https://github.com/yvza)
 - Backend : <br />
     [![MySQL](http://img.shields.io/badge/-MySQL-eee?style=flat-square&logo=mysql&logoColor=4479A1)](https://github.com/yvza)
     [![Oracle](http://img.shields.io/badge/-Oracle-eee?style=flat-square&logo=Oracle&logoColor=red)](https://github.com/yvza)
