@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Laravel, React Native & Advanced PL/SQL (and enjoying _Web Dev_). 
 - 😍 My hobbies are Traveling (_#stayathome_), Urbex Photography, and Gaming.
 - ⚡ Fun fact: Before becoming a web developer, I started my journey by playing a lot of games. But now, I am only seriously playing ~~_Mobile Legends: Bang Bang_ 💖~~ (I retired after reaching Mythical Glory when season 18).
-- 💌 I'm available on facebook and ig as @yuza.go.id, and you can create another [question](https://github.com/yvza/yvza/issues/new) as well.
+- 💌 I'm available on Facebook and Instagram as @yuza.go.id, and you can create another [question](https://github.com/yvza/yvza/issues/new) as well.
 
 🐱‍💻 Most core technologies I've been using everyday :
 - Design : <br />
