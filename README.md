@@ -23,15 +23,18 @@
     [![CSS3](http://img.shields.io/badge/-CSS3-eee?style=flat-square&logo=CSS3&logoColor=blue)](https://github.com/yvza)
     [![Sass](https://img.shields.io/badge/-SASS-eee?style=flat-square&logo=SASS)](https://github.com/yvza)
     [![Vuejs](https://img.shields.io/badge/-Vue.js-eee?style=flat-square&logo=Vue.js)](https://github.com/yvza)
-    [![Hugo](http://img.shields.io/badge/-Hugo-eee?style=flat-square&logo=Hugo)](https://github.com/yvza)
-    [![Ghost](http://img.shields.io/badge/-Ghost-eee?style=flat-square&logo=ghost&logoColor=black)](https://github.com/yvza)
-    [![Gridsome](http://img.shields.io/badge/-Gridsome-eee?style=flat-square&logo=gridsome)](https://github.com/yvza)
+    [![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-eee?style=flat-square&logo=Tailwind-css)](https://github.com/yvza)
 - Backend : <br />
     [![MySQL](http://img.shields.io/badge/-MySQL-eee?style=flat-square&logo=mysql&logoColor=4479A1)](https://github.com/yvza)
     [![Oracle](http://img.shields.io/badge/-Oracle-eee?style=flat-square&logo=Oracle&logoColor=red)](https://github.com/yvza)
     [![NodeJS](http://img.shields.io/badge/-NodeJS-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAgVBMVEUzmTMzkTM0mDQslSwtlS00mzQAAAA7nTsymDIzmDMwmDAymTIzmDMzmTMzmDMzmDMzlzM0mTQzmTMzmTMzmTMzmTMzmTM0mjQ1nDUxlzEymDIzmTMzmTMzmTMzmTMzmTMwlzAzmTMzmTMzmTMzmTMzmTMzmTM0mTQzmTMzmTP///8ybrFJAAAAKXRSTlMAAAAAAAAAAAAAAA9RxlIRBjSR6/7vmzkIAyd21Nt8JwMauPwrKvlQxcV6L9IAAABUSURBVAjXY2RgZGTkYGQEUl8ZwUx2EAUSZfz0jVESSPEygMAXkIgiIyMbAwT8+v+fUeU/jAfkMzKqMjLDuX//k8ZFMwrNIjRnoDkS7AUZxqcQLwAA4+0cex8ENfMAAAAASUVORK5CYII=)](https://github.com/yvza)
     [![MongoDB](https://img.shields.io/badge/-MongoDB-eee?style=flat-square&logo=mongodb&logoColor=47A248)](https://github.com/yvza)
     [![Laravel](http://img.shields.io/badge/-Laravel-eee?style=flat-square&logo=laravel)](https://github.com/yvza)
+- JAMstack : <br />
+    [![Hugo](http://img.shields.io/badge/-Hugo-eee?style=flat-square&logo=Hugo)](https://github.com/yvza)
+    [![Ghost](http://img.shields.io/badge/-Ghost-eee?style=flat-square&logo=ghost&logoColor=black)](https://github.com/yvza)
+    [![Gridsome](http://img.shields.io/badge/-Gridsome-eee?style=flat-square&logo=gridsome)](https://github.com/yvza)
+    [![Netlify](https://img.shields.io/badge/-Netlify-eee?style=flat-square&logo=netlify)](https://github.com/yvza)
 - OS & IDE & Tools : <br />
     [![Windows 10](http://img.shields.io/badge/-Windows%2010-eee?style=flat-square&logo=windows&logoColor=black)](https://github.com/yvza)
     [![VS Code](http://img.shields.io/badge/-VS%20Code-eee?style=flat-square&logo=visual-studio-code&logoColor=007ACC)](https://github.com/yvza)
